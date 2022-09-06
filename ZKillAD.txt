@@ -134,6 +134,7 @@ www.zhihu.com##.css-1x8hcdw.is-fixed.is-hidden.AppHeader.Sticky
 ||m.baidu.com^$removeparam=rsv_iqid
 ||m.baidu.com^$removeparam=rq
 ||m.baidu.com^$removeparam=tj
+||m.baidu.com^$removeparam=gpc
 
 !移除疼讯微信网址中的跟踪参数
 ||mp.weixin.qq.com^$removeparam=session_us
