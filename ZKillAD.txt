@@ -77,8 +77,6 @@ www.zhihu.com##.css-1x8hcdw.is-fixed.is-hidden.AppHeader.Sticky
 ||www.baidu.com^$removeparam=fr
 ||www.baidu.com^$removeparam=cl
 ||www.baidu.com^$removeparam=hisfilter
-||www.www.baidu.com^$removeparam=t_kt
-||www.www.baidu.com^$removeparam=ms
 ||www.baidu.com^$removeparam=ts
 ||www.baidu.com^$removeparam=fm_kl
 ||www.baidu.com^$removeparam=rsv_iqid
@@ -113,6 +111,8 @@ www.zhihu.com##.css-1x8hcdw.is-fixed.is-hidden.AppHeader.Sticky
 ||www.baidu.com^$removeparam=rsp
 !baidu.com^$removeparam=tn，这条会导致百度搜图等网页异常
 !www.baidu.com^$removeparam=ms，这条会导致百毒手机端搜索异常
+!www.baidu.com^$removeparam=t_kt，这条可能导致移动端搜索错误
+!www.baidu.com^$removeparam=ms，这条可能导致移动端搜索错误
 ||m.baidu.com^$removeparam=from
 ||m.baidu.com^$removeparam=sa
 ||m.baidu.com^$removeparam=t_kt
