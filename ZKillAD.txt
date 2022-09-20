@@ -107,6 +107,7 @@ www.zhihu.com##.css-1x8hcdw.is-fixed.is-hidden.AppHeader.Sticky
 ||www.baidu.com^$removeparam=rsv_sug8
 ||www.baidu.com^$removeparam=rsv_sug9
 ||www.baidu.com^$removeparam=rsv_sug10
+||www.baidu.com^$removeparam=rsv_pq
 ||www.baidu.com^$removeparam=prefixsug
 ||www.baidu.com^$removeparam=rsp
 !baidu.com^$removeparam=tn，这条会导致百度搜图等网页异常
