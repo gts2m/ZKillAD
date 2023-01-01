@@ -194,3 +194,5 @@ www.zhihu.com##.css-1x8hcdw.is-fixed.is-hidden.AppHeader.Sticky
 ||bilibili.com^$removeparam=is_story_h5
 ||bilibili.com^$removeparam=share_times
 ||bilibili.com^$removeparam=from_spmid
+||bilibili.com^$removeparam=buvid
+||bilibili.com^$removeparam=up_id
