@@ -186,6 +186,7 @@ www.zhihu.com##.css-1x8hcdw.is-fixed.is-hidden.AppHeader.Sticky
 ||mp.weixin.qq.com^$removeparam=fasttmpl_fullversion
 ||mp.weixin.qq.com^$removeparam=fasttmpl_type
 ||mp.weixin.qq.com^$removeparam=sharer_shareinfo_first
+||mp.weixin.qq.com^$removeparam=sharer_shareinfo
 
 !移除网抑云音乐网址中的跟踪参数
 ||music.163.com^$removeparam=userid
